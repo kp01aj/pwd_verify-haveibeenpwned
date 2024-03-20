@@ -13,11 +13,11 @@ Este script en Python verifica la seguridad de las contraseñas utilizando la AP
 
 ## Uso
 
-python3 my_haveibeen.py -a <contraseña>
+python3 pwd_verify.py <contraseña>
 
 o
 
-python3 my_haveibeen.py -f <archivo.txt>
+python3 pwd_verify.py -h
 
 
 ## Requisitos
